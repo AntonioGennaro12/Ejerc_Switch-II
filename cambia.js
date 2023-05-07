@@ -2,9 +2,9 @@ const pagina            = document.querySelector("body");
 const selectOpcionColor = document.querySelector("select");
 const miImagen          = document.querySelector("#mi-img");
 
-const IMAGEN_1    = "https://images.unsplash.com/photo-1630168185910-60bcbf5cc8c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmxvcmVzJTIwYmxhbmNhc3xlbnwwfHwwfHw%3D&w=1000&q=80";
-const IMAGEN_2    = "https://verdecora.es/blog/wp-content/uploads/2021/03/flores-lilo.jpg.webp";
-const IMAGEN_3    = "https://w0.peakpx.com/wallpaper/509/87/HD-wallpaper-beautiful-roseflower-flowers-pink-rose-roses.jpg";
+const IMAGEN_1    = "https://cdn.pixabay.com/photo/2019/06/04/07/46/lilacs-4250869_640.jpg";
+const IMAGEN_2    = "https://w0.peakpx.com/wallpaper/63/615/HD-wallpaper-bunch-of-light-purple-flowers-purple.jpg";
+const IMAGEN_3    = "https://besthqwallpapers.com/Uploads/10-2-2020/121214/thumb2-pink-roses-macro-pink-flowers-bokeh-roses.jpg";
 const IMAGEN_DEF  = "https://media.admagazine.com/photos/618a5e4c259e475000cce757/master/w_3000,h_1995,c_limit/93306.jpg";
 
 

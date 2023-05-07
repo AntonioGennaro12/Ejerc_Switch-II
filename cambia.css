@@ -1,6 +1,15 @@
+fieldset {
+    margin-top: 10px;
+    margin-left: 5vw;
+    width: 30vw; 
+}
+#mi-img {
+    height:20vh;
+}
+
 #opt-0 {
     color: black;
-    background-color: rgb(192, 191, 191);
+    background-color: rgb(188, 181, 181);
 }
 
 #opt-1 {
